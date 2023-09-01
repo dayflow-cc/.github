@@ -1,6 +1,6 @@
 # Welcome to dayflow
 
-![dayflow Logo](logo.png)
+![dayflow Logo](https://github.com/dayflow-cc/.github/blob/main/profile/logo.png)
 
 ## About dayflow
 
