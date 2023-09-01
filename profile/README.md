@@ -26,7 +26,7 @@ Explore our open-source repositories:
 
 Have questions or suggestions? Feel free to reach out to us:
 
-- Email: [hello@dayflow.cc](mailto:helloe@dayflow.cc)
+- Email: [hello@dayflow.cc](mailto:hello@dayflow.cc)
 - Twitter: [@dayflow_cc](https://twitter.com/dayflow_cc)
 - Instagram: [dayflow_cc](https://www.instagram.com/dayflow_cc)
 
